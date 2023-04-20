@@ -1,0 +1,1 @@
+main(k){for(;~scanf("%d",&k);)printf("%d ",k++*k/2);}
